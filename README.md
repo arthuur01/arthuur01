@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor Full Stack focado em React, Next.js, Python e Business Intelligence.
 
-🎓 Sistemas de Informação - UNA  
+🎓 Sistemas de Informação 
 📍 Belo Horizonte, MG
 
 ## 🚀 Tecnologias
