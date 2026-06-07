@@ -26,8 +26,6 @@
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly)
 ![SQL](https://img.shields.io/badge/SQL-4479A1)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit)
 
@@ -36,7 +34,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux)
 ![Scrum](https://img.shields.io/badge/Scrum-009FDA)
 
 ---
