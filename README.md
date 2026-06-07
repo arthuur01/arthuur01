@@ -1,6 +1,6 @@
 # Olá, eu sou Arthur Miguel 👋
 
-💻 Desenvolvedor Full Stack focado em React, Next.js, Python e Business Intelligence.
+💻 "Desenvolvedor Full Stack apaixonado por dados, visualização de informações e aplicações web escaláveis."
 
 🎓 Sistemas de Informação 
 📍 Belo Horizonte, MG
