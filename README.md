@@ -51,11 +51,6 @@ Sistema web para monitoramento HVAC e aquecimento de piscinas, focado em desempe
 
 ---
 
-## 📈 GitHub Stats
-
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthuur01&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthuur01&layout=compact)
 
 ---
 
